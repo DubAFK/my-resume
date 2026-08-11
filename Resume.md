@@ -1,5 +1,5 @@
 # Дубатов Кирилл
-**Intern DOT.NET C# Developer**
+**Intern .NET C# Developer**
 
 Краснодар, Россия | 8 918 159-80-31 | kirilldubatov@yandex.ru  | [github.com/DubAFK](https://github.com/DubAFK) | [t.me/DubAFK](https://t.me/DubAFK)
 
