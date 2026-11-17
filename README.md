@@ -1,19 +1,15 @@
 # Дубатов Кирилл
-**Intern .NET C# Developer**
+**Junior .NET C# Developer**
 
 Краснодар, Россия | 8 918 159-80-31 | kirilldubatov@yandex.ru  | [github.com/DubAFK](https://github.com/DubAFK) | [t.me/DubAFK](https://t.me/DubAFK)
-
----
 
 ## Навыки
 *   **Ключевые навыки:** Godot Engine (Mono)
 *   **Языки программирования:** C#, C++
 *   **Базы данных:** SQL (SQLite, MySQL)
-*   **Инструменты и технологии:** Linux, Git, XAML, xUnit .NET
+*   **Инструменты и технологии:** Linux, Git, XAML, xUnit .NET, ASP.NET Core, Entity Framework Core
 *   **Технические навыки:** Алгоритмы и структуры данных, паттерны проектирования (MVVM)
 *   **Языки:** Русский (Родной), Английский (B2 - Upper-Intermediate), Испанский (A1 - Beginner)
-
----
 
 ## Образование
 
@@ -31,9 +27,13 @@
 
 *09.2020 – 08.2024*
 
----
-
 ## Проекты
+
+**GuildChat** | *ASP.NET Core, Entity Framework Core, C#*
+
+*   Разработал простое клиент-серверное приложение для общения участников гильдий в реальном времени.
+*   Регистрация с хешированием паролей и вход с выдачей JWT-токенов.
+*   Подключение к чату через виртуальные группы SignalR.
 
 **Minesweeper** | *Avalonia UI, C#*
 
